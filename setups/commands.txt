@@ -1,0 +1,11 @@
+rmdir yolo12env -Recurse 
+C:\Users\manya\AppData\Local\Programs\Python\Python311\python.exe -m venv yolo12env
+yolo12env\Scripts\Activate
+
+
+# Downloading the kaggled dataset
+python kaggler.py
+
+
+# training the model
+python modeler.py

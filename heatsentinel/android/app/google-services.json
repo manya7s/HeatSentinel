@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "138945333259",
+    "project_id": "heatsentinel-aa296",
+    "storage_bucket": "heatsentinel-aa296.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138945333259:android:62af981ff9997afd17df0e",
+        "android_client_info": {
+          "package_name": "com.example.heatsentinel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuK6mlGNbXiiXDGuvCAVcxbEFd_KjA1OM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

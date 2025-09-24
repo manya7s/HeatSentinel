@@ -1,0 +1,10 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['0', '1', '2']
+
+# 0 is sitting
+# 1 is standing
+# 2 standing

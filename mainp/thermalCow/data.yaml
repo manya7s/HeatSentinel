@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 5
+names: ['ear', 'eyes', 'hump', 'neck', 'udder']
+
+roboflow:
+  workspace: heat-detection
+  project: thermal-images-of-cows-ummua
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/heat-detection/thermal-images-of-cows-ummua/dataset/1
